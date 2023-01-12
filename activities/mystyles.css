@@ -1,0 +1,34 @@
+h1 {
+    color: plum;
+    text-decoration-line: underline;
+}
+
+img {
+    color: blue; 
+
+}
+
+ol {
+    column-gap: 40px;
+    list-style-type: upper-roman;
+}
+
+li {
+    font: 15px Arial, sans-serif;
+}
+
+a {
+}
+
+table {
+    empty-cells: hide;
+}
+
+tr {
+}
+
+th {
+}
+
+td {
+}
